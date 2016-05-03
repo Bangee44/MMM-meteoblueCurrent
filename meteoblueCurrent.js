@@ -81,7 +81,7 @@ Module.register("meteoblueCurrent",{
 
 	// Define required scripts.
 	getStyles: function() {
-		return ["weather-icons.css", "meteoblue.css"];
+		return ["weather-icons.css", "meteoblueCurrent.css"];
 	},
 
 	// Define start sequence.
