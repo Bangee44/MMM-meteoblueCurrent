@@ -8,7 +8,7 @@
  * MIT Licensed.
  * 
  */
-Module.register("meteoblueCurrent",{
+Module.register("MMM-meteoblueCurrent",{
     
 	// Default module config.
 	defaults: {
