@@ -15,7 +15,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
   {
-    module: 'meteoblueCurrent',
+    module: 'MMM-meteoblueCurrent',
     position: 'top_right',
     config: {
       apikey: '123456789', // private; don't share!
